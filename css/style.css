@@ -190,7 +190,7 @@ header .navbar {
 }
 
 .navbar-brand {
-    color: #222;
+    
     text-transform: uppercase;
     font-size: 24px;
     font-weight: 700;
@@ -207,7 +207,7 @@ header .navbar-collapse  ul.navbar-nav {
     margin-top: 10px;
     margin-bottom: 10px;
 }
-header .navbar {min-height: 70px;padding: 18px 0;background: #ffffff;}
+header .navbar {min-height: 70px;padding: 18px 0;}
 .home-page header .navbar-default{
     background: transparent;
     /* position: absolute; */
@@ -1142,7 +1142,7 @@ ul.team-detail li ul.social-network li i {
 }
 
  .navbar-brand i {
-    color: #404040;
+    
     font-size: 26px;
     margin-right: 5px;
     position: relative;
@@ -1152,7 +1152,7 @@ ul.team-detail li ul.social-network li i {
 	
 }
 .navbar-brand strong{
-	color: #404040;
+	
 	margin-left: 5px;
 	font-size: 14px;
 }
@@ -1665,7 +1665,7 @@ article img.pull-right, article .align-right{
 
 @media (max-width: 767px) {
 .navbar-default .navbar-collapse{border-color: none;/* background: #05142b; */}
-.navbar-default .navbar-toggle .icon-bar {background-color: #868686;border-radius: 0;}
+.navbar-default .navbar-toggle .icon-bar {border-radius: 0;}
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 background-color: rgba(221, 221, 221, 0);
 }
