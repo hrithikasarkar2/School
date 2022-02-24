@@ -1738,6 +1738,13 @@ padding-top: 3px;
 		padding-bottom:20px;
 	}
 
+	.flexslider .slides img
+	{
+		width: auto ;
+		max-width: 100% ;
+		height: auto ;
+	}
+
 	.flexslider .slide-caption {
 		width: 90%; 
 		padding: 2%; 
